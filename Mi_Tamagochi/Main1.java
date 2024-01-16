@@ -2,7 +2,7 @@ package Mi_Tamagochi;
 
 import java.util.Scanner;
 
-public class Main {
+public class Main1 {
 
     public static void main(String[] args) {
 
