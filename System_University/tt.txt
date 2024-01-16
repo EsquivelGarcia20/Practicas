@@ -1,0 +1,14 @@
+sistema para una universidad
+salones n
+edificion n
+alumnos n
+
+dividido por carreras n
+cantidad de alumnos por carrera ´por salon y por edificio
+
+carreras mezcladas entre edificios, mostrar cantidad de alumnos en total 
+
+estructura del proyecto manejo de clases
+ingles de preferencia
+metodos
+sin ningun bug
